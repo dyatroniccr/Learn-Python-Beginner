@@ -2,7 +2,6 @@ import random
 
 def get_randomInt():
 	# Your code here
-	number = random.randrange(1, 13)
-	return number
+	return None
 
 print(get_randomInt())
